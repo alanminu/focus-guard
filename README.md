@@ -41,7 +41,7 @@ The two model files are already in `models/`, so nothing else needs downloading.
 ## Installation
 
 ```bash
-git clone https://github.com/<alanminu>/FocusGuard.git
+git clone https://github.com/alanminu/FocusGuard.git
 cd FocusGuard
 
 python -m venv .venv
