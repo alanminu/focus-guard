@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated output (created when you run the app)
+runs/
+results/
+features/
+data/
+
+# Datasets
+SUST-DDD/
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# Paper and documents (kept private)
+docs/
+*.docx
+*.pdf
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

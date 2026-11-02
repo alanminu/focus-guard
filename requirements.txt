@@ -1,0 +1,11 @@
+mediapipe>=0.10.14
+opencv-python>=4.8
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+matplotlib>=3.7
+joblib>=1.3
+# optional
+onnxruntime>=1.16     # phone detector
+streamlit>=1.32       # dashboard
+pytest>=7             # tests
